@@ -1,8 +1,3 @@
-# Practica 0 - Blink
-
-## Código
-
-```c
 /*
   Programa: Blink
   Autor: Enrique Barboza, Alejandro Espinoza, Isai Mendoza, Rubén Campos
@@ -27,21 +22,3 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW
   delay(1000);                      // wait for a second
 }
-```
-
-## Captura del Código
-
-![Captura del Código](./codigo.png)
-
-## Captura Ejecución
-
-![Ejecución del Código](./ejecutando.jpeg)
-
-## Captura del Simulador
-
-![Simulador](./simulador.png)
-
-## Link al Simulador
-
-[Practica 0 - Blink](https://wokwi.com/projects/396629130789199873)
-
