@@ -156,7 +156,7 @@ void loop() {
 
 ## Captura del Código
 
-![Captura del Código](./codigo.png)
+![Captura del Código](./capturacodigo.png)
 
 ## Captura Ejecución
 
