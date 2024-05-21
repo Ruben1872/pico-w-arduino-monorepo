@@ -158,9 +158,6 @@ void loop() {
 
 ![Captura del Código](./capturacodigo.png)
 
-## Captura Ejecución
-
-![Ejecución del Código](./ejecutando.jpg)
 
 ## Captura del Simulador
 
