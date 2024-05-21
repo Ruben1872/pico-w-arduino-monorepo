@@ -165,4 +165,4 @@ void loop() {
 
 ## Link al Simulador
 
-[Practica 2 - OLED](https://wokwi.com/projects/398447596235173889)
+[Practica 3 - WiFi](https://wokwi.com/projects/398535250757706753)
